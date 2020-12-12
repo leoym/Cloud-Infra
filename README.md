@@ -25,13 +25,16 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
   
   https://github.com/leoym/gcp
   
+
+- 🤔 If you need help. Here there are a lot of informations ...
+  
 # Terraform
    
-  ## Uma ferramenta de criação automática de servidores
+  ## Automatic deployment tool
   
     Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
     
-    Provisione sua infraestrutura de forma automatizada e gerencie através infraestrutura como código.
+    Provisione sua infraestrutura de forma automatizada e gerencie através infraestrutura como código. Uma ferramenta de criação automática de servidores.
     
   https://www.terraform.io/downloads.html
     
