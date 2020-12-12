@@ -17,14 +17,13 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
   
 # TERRAFORM
    
-    ## Uma ferramenta de criação automática de servidores
+  ## Uma ferramenta de criação automática de servidores
     
-    https://www.terraform.io/downloads.html
+  https://www.terraform.io/downloads.html
     
-    https://github.com/terraform-providers
-    
-     
-    ### For Azure
+  https://github.com/terraform-providers
+      
+  ### For Azure
     
     https://github.com/leoym/azure
     
