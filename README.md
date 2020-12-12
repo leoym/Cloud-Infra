@@ -1,7 +1,7 @@
 # Cloud-Infra
 This Repo contains general informations for Cloud Infrastrucuture Professionals
 
-![alt text](http://www.lymtec.com.br/wp-content/uploads/2020/03/Slide6.png https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/1024px-Cloud_computing.svg.png "Cloud - Wiki") 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/1024px-Cloud_computing.svg.png "Cloud - Wiki") 
 
 # Cloud Services
   
