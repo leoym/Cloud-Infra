@@ -15,6 +15,16 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
   
   https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
   
+# My Repos
+
+![alt text](https://raw.githubusercontent.com/leoym/Cloud-Infra/main/cloud.png "Cloud - Repos")  
+
+  https://github.com/leoym/aws
+  
+  https://github.com/leoym/azure
+  
+  https://github.com/leoym/gcp
+  
 # Terraform
    
   ## Uma ferramenta de criação automática de servidores
