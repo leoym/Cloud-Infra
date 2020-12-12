@@ -1,7 +1,7 @@
 # Cloud-Infra
 This Repo contains general informations for Cloud Infrastrucuture Professionals
 
-![alt text](http://www.lymtec.com.br/wp-content/uploads/2020/03/Slide6.png "Logo LYM") 
+![alt text](http://www.lymtec.com.br/wp-content/uploads/2020/03/Slide6.png https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/1024px-Cloud_computing.svg.png "Cloud - Wiki") 
 
 # Cloud Services
   
@@ -15,9 +15,13 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
   
   https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
   
-# TERRAFORM
+# Terraform
    
   ## Uma ferramenta de criação automática de servidores
+  
+    Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
+    
+    Provisione sua infraestrutura de forma automatizada e gerencie através infraestrutura como código.
     
   https://www.terraform.io/downloads.html
     
@@ -25,17 +29,19 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
       
   ### For Azure
     
-    https://github.com/leoym/azure
+  https://github.com/leoym/azure
     
-    https://docs.microsoft.com/pt-br/azure/developer/terraform/overview
+  https://docs.microsoft.com/pt-br/azure/developer/terraform/overview
     
-    https://docs.microsoft.com/pt-br/azure/developer/terraform/get-started-cloud-shell
+  https://docs.microsoft.com/pt-br/azure/developer/terraform/get-started-cloud-shell
     
   
 # Istio
 
   ## Kubernetes management tool
   
+    Connect, secure, control, and observe services.
+    
   https://istio.io/latest/docs/setup/getting-started/
   
   https://istio.io/latest/docs/setup/platform-setup/
@@ -48,7 +54,7 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
 
   ### For Azure
     
-    https://istio.io/latest/docs/setup/platform-setup/azure/
+  https://istio.io/latest/docs/setup/platform-setup/azure/
     
-    https://github.com/leoym/azure
+  https://github.com/leoym/azure
  
