@@ -1,5 +1,7 @@
 # Cloud-Infra
-Cloud Infrastrucuture
+This Repo contains general informations for Cloud Infrastrucuture Professionals
+
+![alt text](http://www.lymtec.com.br/wp-content/uploads/2020/03/Slide6.png "Logo LYM") 
 
 
 # Istio
