@@ -3,28 +3,20 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
 
 ![alt text](http://www.lymtec.com.br/wp-content/uploads/2020/03/Slide6.png "Logo LYM") 
 
-
-# Istio
-
-  https://istio.io/latest/docs/setup/getting-started/
-  https://istio.io/latest/docs/setup/platform-setup/
+# Cloud Services
   
-  https://istio.io/latest/docs/setup/install/istioctl/
-
-  https://istio.io/latest/docs/setup/getting-started/#download
+  EN: Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
   
-  https://istio.io/latest/docs/concepts/traffic-management/#gateways
-  As
+  PT: Computação em nuvem (em inglês, cloud computing), é um termo coloquial para a disponibilidade sob demanda de recursos do sistema de computador , especialmente armazenamento de dados e capacidade de computação, sem o gerenciamento ativo direto do utilizador.
 
-
-  ## For Azure
-    https://istio.io/latest/docs/setup/platform-setup/azure/
-    https://github.com/leoym/azure
-    
-    
-  # TERRAFORM
+  Fonte:
   
- 
+  https://en.wikipedia.org/wiki/Cloud_computing
+  
+  https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
+  
+# TERRAFORM
+   
     ## Uma ferramenta de criação automática de servidores
     
     https://www.terraform.io/downloads.html
@@ -32,7 +24,7 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
     https://github.com/terraform-providers
     
      
-    ## For Azure
+    ### For Azure
     
     https://github.com/leoym/azure
     
@@ -40,4 +32,24 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
     
     https://docs.microsoft.com/pt-br/azure/developer/terraform/get-started-cloud-shell
     
+  
+# Istio
 
+  ## Kubernetes management tool
+  
+  https://istio.io/latest/docs/setup/getting-started/
+  
+  https://istio.io/latest/docs/setup/platform-setup/
+  
+  https://istio.io/latest/docs/setup/install/istioctl/
+
+  https://istio.io/latest/docs/setup/getting-started/#download
+  
+  https://istio.io/latest/docs/concepts/traffic-management/#gateways
+
+  ### For Azure
+    
+    https://istio.io/latest/docs/setup/platform-setup/azure/
+    
+    https://github.com/leoym/azure
+ 
