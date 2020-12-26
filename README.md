@@ -48,6 +48,11 @@ This Repo contains general informations for Cloud Infrastrucuture Professionals
     
   https://docs.microsoft.com/pt-br/azure/developer/terraform/get-started-cloud-shell
     
+# Kubernetes
+
+  ## Kubernetes deploy
+  
+  https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
   
 # Istio
 
